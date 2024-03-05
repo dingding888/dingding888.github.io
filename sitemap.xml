@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aitechshare.com/how-to-register-claude3.html</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aitechshare.com/Claude3-publish.html</loc>
     
     <lastmod>2024-03-05</lastmod>
@@ -80,6 +89,13 @@
   
   <url>
     <loc>https://aitechshare.com/tags/%E8%99%9A%E6%8B%9F%E5%8D%A1/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aitechshare.com/tags/Claude/</loc>
     <lastmod>2024-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
