@@ -92,13 +92,6 @@
 
   
   <url>
-    <loc>https://aitechshare.com/tags/ChatGPT/</loc>
-    <lastmod>2024-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://aitechshare.com/tags/Claude-3/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,6 +107,13 @@
   
   <url>
     <loc>https://aitechshare.com/tags/%E8%99%9A%E6%8B%9F%E5%8D%A1/</loc>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aitechshare.com/tags/ChatGPT/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -141,14 +141,14 @@
   </url>
   
   <url>
-    <loc>https://aitechshare.com/tags/Sora/</loc>
+    <loc>https://aitechshare.com/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aitechshare.com/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://aitechshare.com/tags/Sora/</loc>
     <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
