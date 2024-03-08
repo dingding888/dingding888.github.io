@@ -6,7 +6,7 @@
   <link href="https://aitechshare.com/atom.xml" rel="self"/>
   
   <link href="https://aitechshare.com/"/>
-  <updated>2024-03-06T07:36:15.798Z</updated>
+  <updated>2024-03-08T09:54:26.789Z</updated>
   <id>https://aitechshare.com/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>手把手教你解决ChatGPT发送消息没有反应</title>
+    <link href="https://aitechshare.com/fix-chatgpt-send-message-error.html"/>
+    <id>https://aitechshare.com/fix-chatgpt-send-message-error.html</id>
+    <published>2024-03-08T09:51:36.000Z</published>
+    <updated>2024-03-08T09:54:26.789Z</updated>
+    
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer"><h1 id="ChatGPT发消息没反应"><a href="#ChatGPT发消息没反应" class="headerlink" title="ChatGPT发消息没反应"></a>ChatGPT发消息没反应</h1><p>今天超常使用ChatGPT来帮忙码代码，结果发现发出去的消息完全没有反应，即不给我处理，也没有抱任何的错误，按浏览器刷新，看起来很正常，可以查看历史对话，但是再次尝试还是一样的没反应。<br><img src="https://files.mdnice.com/user/56996/4badea5d-f76c-451c-98d5-9588d0fbc9d0.png"></p><p>开始还以为是账号被封了，但是经过研究分析，发现出现这个问题的原因，应该是点击了登录后顶部的弹窗邀请，[加入alpha测试]了，并且选择了中文语言。</p><p><img src="https://files.mdnice.com/user/56996/5fa33284-b430-42c9-875e-f08ae309e985.png"></p><p>网络抓包后看到ab.chatgpt.com接口有点问题，在控制台里面有不少的报错，无法获取账户的信息，导致发的消息没有反应，就像是消息发不出去一样。</p><h1 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h1><h2 id="1-临时办法"><a href="#1-临时办法" class="headerlink" title="1. 临时办法"></a>1. 临时办法</h2><p>打开浏览器的无痕模式打开，打开一个新的窗口，然后进入ChatGPT，以Chrome浏览器为例，如下图，点击右上角的三个点，点击“打开新的无痕式窗口”，然后进入ChatGPT</p><p><img src="https://files.mdnice.com/user/56996/c7ccd5a6-149b-439c-adf9-bc362f9b7fcb.png"><br>就可以使用了<br><img src="https://files.mdnice.com/user/56996/4a6323c8-7fea-407b-b8bb-4cce8821cae6.png"></p><h2 id="2-永久解决方案"><a href="#2-永久解决方案" class="headerlink" title="2. 永久解决方案"></a>2. 永久解决方案</h2><p>清空 <a href="https://chat.openai.com网站在你的的浏览器中,本地所有缓存数据./">https://chat.openai.com网站在你的的浏览器中，本地所有缓存数据。</a><br>步骤: Openai ChatGPT 的对话页面，点击鼠标右键，点击检查</p><p><img src="https://files.mdnice.com/user/56996/86e76590-b4f1-48bd-8e43-c988a9ea1c6e.png"></p><p>下面的横的一排页签上，找到应用(Application)，在左侧的菜单里，找到存储（Storage），勾选包括第三方cookies（including third-party cookies）, 点击清除网站数据(Clear site data)</p><p><img src="https://files.mdnice.com/user/56996/0171e719-0caa-4156-9eb2-36cc75d315dc.png"></p><p>这样你就不会再出现发送消息没反应的问题了，愉快的继续ChatGPT冲浪吧~</p><p>文章来源：<a href="https://aitechshare.com/fix-chatgpt-send-message-error.html">手把手教你解决ChatGPT发送消息没有反应</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+
+&lt;h1 id=&quot;ChatGPT发消息没反应&quot;&gt;&lt;a href=&quot;#ChatGPT发消息没反应&quot; class=&quot;headerlink&quot; title=&quot;ChatGPT发消息没反应&quot;&gt;&lt;/a&gt;C</summary>
+      
+    
+    
+    
+    
+    <category term="ChatGPT" scheme="https://aitechshare.com/tags/ChatGPT/"/>
+    
+  </entry>
+  
+  <entry>
     <title>震惊! Claude3发布，将取代ChatGPT4？附免费注册教程</title>
     <link href="https://aitechshare.com/how-to-register-claude3.html"/>
     <id>https://aitechshare.com/how-to-register-claude3.html</id>
     <published>2024-03-05T10:59:13.000Z</published>
-    <updated>2024-03-06T07:36:15.798Z</updated>
+    <updated>2024-03-08T09:53:19.567Z</updated>
     
     <content type="html"><![CDATA[<meta name="referrer" content="no-referrer">  <div style="background-color: #e7f7d6; padding: 10px;">   <h3 id="🌐-网站公告：🌐"><a href="#🌐-网站公告：🌐" class="headerlink" title="🌐 网站公告：🌐"></a>🌐 网站公告：🌐</h3><ul><li>🎉 推荐您体验最尖端的对话AI技术——ChatGPT！🚀 它能显著提升你的工作与学习效率。📈 我们为您提供优惠的ChatGPT账户服务，价格绝对实惠且稳定可靠。💰</li><li>💵 5美元账户仅需25元&#x2F;个：🖐️ 纯手工注册，保证每个账号独享，包括售后服务。🛡️</li><li>🌟 ChatGPT Plus 升级服务：🔝 正规渠道充值，保障售后，让您享受GPT-4、高级绘画功能、联网搜索以及更多GPTS特性。🎨 联系微信：dingyuzhi<br>  <img src="https://files.mdnice.com/user/56996/3c48eefb-d1e8-4793-a954-624931e4e57f.jpg"></li></ul><p>  📞 遇到任何疑问，或希望了解更多详情，请通过微信联系我们：dingyuzhi。📲 我们承诺为您提供官方的ChatGPT产品体验，并解决Plus版本升级过程中的任何问题。🔧<br>  </p></div><p></p><p><img src="https://files.mdnice.com/user/56996/7d695555-cde6-4e19-8a14-101307c36327.png"></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>一夜之间，全球最强 AI 模型易主。大模型行业再次经历变革。🔄</p><h2 id="Claude-3-发布"><a href="#Claude-3-发布" class="headerlink" title="Claude 3 发布"></a>Claude 3 发布</h2><p><a href="https://aitechshare.com/">爱技术分享网</a>获悉，3月5日凌晨，OpenAI的竞争对手、得到谷歌和亚马逊投资支持的Anthropic公司发布了最新的Claude 3系列模型，其多个领域的性能超越了OpenAI的GPT-4。</p><p>Claude 3系列模型包括Haiku（中杯）、Sonnet（大杯）与Opus（超大杯）三款，能力层次递增。在推理、数学、编码、多语言理解和视觉等领域的20项测试中，Claude 3 Opus在14项性能指标上超越了GPT-4和谷歌Gemini等一系列模型。🚀</p><h2 id="Claude-3-的能力"><a href="#Claude-3-的能力" class="headerlink" title="Claude 3 的能力"></a>Claude 3 的能力</h2><p>Anthropic 表示，Claude 3 Opus 拥有相当于人类本科生水平的知识，并已成为全球最强大的AI大模型。</p><p><img src="https://files.mdnice.com/user/56996/371a4889-1a31-440b-9d63-5dc001939901.png"></p><p>此外，Claude首次公布了对多模态能力的支持（Opus 版本的 MMMU 得分为 59.4%，超过 GPT-4V，与Gemini 1.0 Ultra持平）。现在，用户可以上传照片、图表、文档等非结构化数据，让 AI 进行分析和解答。🔍</p><p>目前，Claude 3 Opus和Sonnet已经在claude.ai以及全球159个国家和地区的Claude API上线。而Haiku模型也即将推出。</p><ul><li><p>有网友称，Claude 3来了，OpenAI准备拿什么来回应？GPT-5,Altman，Sora将何时发布？<br><img src="https://files.mdnice.com/user/56996/255f0f7f-62b1-47fc-9ff9-759aefd1bbde.png"></p></li><li><p>单词处理能力是ChatGPT近50倍，Claude 3究竟有多强</p></li></ul><p>这家刚刚超越ChatGPT-4的公司成立不到3年，由OpenAI前研究副总裁和GPT-3论文的主要作者创立。🌟</p><p>Anthropic的成立是因为创始团队对OpenAI的发展方向有所分歧，担心公司可能会偏离其最初的愿景。在过去一年，Anthropic完成了五轮融资，总额约73亿美元。</p><p>Anthropic联合创始人透露，公司有60至80人参与核心模型的开发，120至150人参与技术研发。Claude模型的最新迭代由约30至35人的团队直接参与。</p><ul><li>Anthropic最新发布的Claude 3系列模型，在多个性能指标上都非常强大，与GPT-4相抗衡。</li></ul><h2 id="GPT-5即将到来？"><a href="#GPT-5即将到来？" class="headerlink" title="GPT-5即将到来？"></a>GPT-5即将到来？</h2><p>随着Claude 3的发布，行业内对AI的关注再度升温。马斯克对这一成就表示感动，而刚离职OpenAI的Logan对Anthropic团队表示祝贺。</p><p>但也有人质疑Claude对中文支持的程度及其价格策略。据悉，GPT-4 Turbo的收费标准与Claude 3 Opus相比，后者要昂贵得多。</p><p><img src="https://files.mdnice.com/user/56996/48dfc2e6-bca2-4947-8f4b-8ad7fc2df2ff.png"></p><p><img src="https://files.mdnice.com/user/56996/83917720-9167-4f3a-8515-57fe8315be5b.png"></p><p>OpenAI最近的一份泄露文件显示，公司计划在2027年前开发出人类级别的通用人工智能。CEO奥特曼表示，OpenAI开发出了超乎想象的新技术，预示着模型能力的巨大飞跃。🌐</p><p>图灵奖得主LeCun对大模型公司可能对AI模型行业的影响表示担忧。如果GPT-5即将发布，我们可能即将见证AI领域的一场新热战，更接近AGI时代。🔮</p><h2 id="Claude-3-如何注册和使用"><a href="#Claude-3-如何注册和使用" class="headerlink" title="Claude 3 如何注册和使用"></a>Claude 3 如何注册和使用</h2><p>在官网注册账号<br>打开claude官网<a href="https://claude.ai/">https://claude.ai/</a>，输入你的邮箱进行注册，你可以使用国内邮箱，或者直接使用google邮箱注册,推荐使用google邮箱，方便快捷。但是没有google邮箱也不要慌，国内邮箱也可以注册：</p><p><img src="https://files.mdnice.com/user/56996/a4b4df95-f2f9-4403-83a7-f5d51f0c0861.png"></p><p>登录邮箱获取验证码，输入验证码，</p><p><img src="https://files.mdnice.com/user/56996/39baf28b-d54e-4669-a32f-dbe060571c8d.png"></p><p>验证通过，下一步输入手机号码进行验证</p><p><strong>划重点，很多人卡在这一步，因为没有国外的手机号码</strong>，这里推荐注册<a href="https://bewildcard.com/i/GPTV40">Wildcard</a>,可以获得3次海外手机验证码。</p><h3 id="使用Wildcard获取海外手机验证码"><a href="#使用Wildcard获取海外手机验证码" class="headerlink" title="使用Wildcard获取海外手机验证码"></a>使用Wildcard获取海外手机验证码</h3><p>这里介绍使用手机上的浏览器获取海外手机验证码的方法</p><ul><li>注册完wildcard之后，点击我的服务，找到海外手机号，点击使用，会弹出下面的界面，点击申请手机号。</li></ul><p><img src="https://files.mdnice.com/user/56996/24dd02ef-0b7d-4956-93a8-d4b0f53477a8.png"></p><ul><li>这里可以使用手机号注册Claude2和OpenAI的账号，我们选择Claude2.</li></ul><p><img src="https://files.mdnice.com/user/56996/683021f6-0c31-4a88-9948-8a35db91e4a6.png"></p><ul><li>下面是一个提示，点继续。</li></ul><p><img src="https://files.mdnice.com/user/56996/5ddb2130-b90e-4ed7-aa79-e8734c19a955.png"></p><ul><li>接着就会显示本次申请到的海外手机号，和这个手机号所属的国家。</li></ul><p><img src="https://files.mdnice.com/user/56996/4e7e9f3d-2b72-4093-bd75-a41a930c8d53.png"></p><ul><li>接下来回到Claude的注册画面，，以上面的手机号为例，选择国家为英国，也就是United Kingdom,不要输入+44，输入那串黑色的数字，，点击Send Verification Code。注意，你有可能会像下图一样，遇到Phone number already used.Please try a different phone number.的错误，也就是说，电话号码已经被使用，建议换一个号码，不要慌我们看下面的解决办法。</li></ul><p><img src="https://files.mdnice.com/user/56996/0377a634-8222-4ed1-9309-287b514a4997.png"></p><ul><li>我们回到wildcard的申请手机号码页面，点击申请新号码，马上就会生成一个新号码</li></ul><p><img src="https://files.mdnice.com/user/56996/2227f5d4-a765-468f-af99-c7788e6e2819.png"></p><ul><li>把新号码填到Claude的注册画面里，点击Send Verification Code。</li></ul><p><img src="https://files.mdnice.com/user/56996/395e9e0d-b43a-427b-87ff-5da5e16f86b3.png"></p><ul><li>没有提示手机号码被占用，那就稍等片刻，手机上wildcard的画面上就会收到短信验证码，这个验证码也会以短信的形式同步发送到你注册wildcard所使用的手机号上。</li></ul><p><img src="https://files.mdnice.com/user/56996/bc75cb15-92af-40b4-bfab-8a18e95c9987.png"></p><ul><li>把验证码输入上面的框，勾选已满18岁的框，点击Verify&amp;Create Account，来验证并创建账号。</li></ul><p><img src="https://files.mdnice.com/user/56996/14003bea-235a-4807-8435-fbc403a8d341.png"></p><p>验证通过就可以开始使用Claude了。<br>整体使用跟国内的大模型界面比较类似，跟chatGPT还是有一些区别的。</p><p><img src="https://files.mdnice.com/user/56996/0a7aa1ad-3cef-47e4-8d3e-2c9b9af8b4a0.png"></p><h2 id="Claude-充值"><a href="#Claude-充值" class="headerlink" title="Claude 充值"></a>Claude 充值</h2><p>免费版的Claude会限制速度，稍微问两句就会提示要充钱。这时候也可以使用<a href="https://bewildcard.com/i/GPTV40">Wildcard</a>进行充值，接着体验你的Claude 3之旅。</p><p>(PS: Wildcard虚拟卡也可以用来升级ChatGPT Plus哦，而且超级简单超级方便，具体可以看教程<a href="https://aitechshare.com/how-to-upgrade-chatgpt.html">如何购买ChatGPT Plus？信用卡付款失败怎么办？使用虚拟信用卡升级ChatGPT Plus 指南</a>)</p><h3 id="一、ChatGPT账号注册相关"><a href="#一、ChatGPT账号注册相关" class="headerlink" title="一、ChatGPT账号注册相关"></a>一、ChatGPT账号注册相关</h3><p><a href="https://aitechshare.com/how-to-register-chatgpt.html">国内ChatGPT账号怎么注册，无需手机验证码（2024年2月更新）</a></p><h3 id="二、ChatGPT充值升级-Plus"><a href="#二、ChatGPT充值升级-Plus" class="headerlink" title="二、ChatGPT充值升级 Plus"></a>二、ChatGPT充值升级 Plus</h3><p><a href="https://aitechshare.com/how-to-upgrade-chatgpt.html">如何购买ChatGPT Plus？信用卡付款失败怎么办？使用虚拟信用卡升级ChatGPT Plus 指南</a></p><h3 id="三、Youtube、Onlyfans等国外优质服务订阅："><a href="#三、Youtube、Onlyfans等国外优质服务订阅：" class="headerlink" title="三、Youtube、Onlyfans等国外优质服务订阅："></a>三、Youtube、Onlyfans等国外优质服务订阅：</h3><p><a href="https://aitechshare.com/how-to-pay-onlyfans.html">OnlyFans支付教程，手把手教你使用虚拟信用卡订阅 Onlyfans</a><br><a href="https://aitechshare.com/onlyfans.html">onlyfans虚拟信用卡支付教程-Onlyfans保姆级教程</a></p><h3 id="四、科技前沿："><a href="#四、科技前沿：" class="headerlink" title="四、科技前沿："></a>四、科技前沿：</h3><p><a href="https://aitechshare.com/how-to-use-sora.html">什么是Sora？如何使用？新手小白必看</a></p>]]></content>
     
@@ -29,9 +53,10 @@
       
       
     <summary type="html">&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+
   &lt;div style=&quot;background-color: #e7f7d6; padding: 10px;&quot;&gt; 
   
-&lt;h3 id=&quot;🌐-网站公告：🌐&quot;&gt;&lt;a href=&quot;#🌐-</summary>
+&lt;h3 id=&quot;🌐-网站公告：🌐&quot;&gt;&lt;a href=&quot;#🌐</summary>
       
     
     
