@@ -6,7 +6,7 @@
   <link href="https://aitechshare.com/atom.xml" rel="self"/>
   
   <link href="https://aitechshare.com/"/>
-  <updated>2024-04-18T02:27:22.189Z</updated>
+  <updated>2024-04-18T08:16:03.405Z</updated>
   <id>https://aitechshare.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ChatGPT4最新大招！DALL·E AI生成的图片可以编辑了！</title>
+    <link href="https://aitechshare.com/how-to-edit-dalle-image.html"/>
+    <id>https://aitechshare.com/how-to-edit-dalle-image.html</id>
+    <published>2024-04-18T07:03:20.000Z</published>
+    <updated>2024-04-18T08:16:03.405Z</updated>
+    
+    <content type="html"><![CDATA[<p>现在，我们可以对使用 DALL·E 创作的图片进行编辑了，ChatGPT Plus推出了DALL·E 创作的图片编辑功能。</p><p>ChatGPT 4.0可以直接使用DALL·E，通过虚拟卡 WildCard 的方式来升级 ChatGPT 4.0 最简单快捷，大概2分钟就可以升级完成，而且升级 GPT 4.0 价钱也不贵，虚拟卡一年10美元，ChatGPT 4.0 每个月也才 20美元，如果你觉得 ChatGPT 4.0 对你可能有帮助，那就赶快来升级吧！</p><p><a href="https://aitechshare.com/upgrade-chatgptplus.html">ChatGPT4.0升级教程</a></p><p>DALL·E 的编辑功能让我们能够选定图片中的特定部分进行修改，只需在聊天框里简单描述想要的变化即可。如果不想用鼠标选择，也可以直接在对话框中输入编辑要求。</p><p>只需点击一下 DALL·E 生成的图片，就可以轻松进入 DALL·E 编辑界面。</p><p><a href="https://downloads.intercomcdn.com/i/o/1006446449/4069b8f19d65f0cdd2fd20b2/editing-editor.png?expires=1712132725&amp;signature=ef39c43bf5c0ab8eaa41306f89c4ae03f0411f12a4c5ac122c62173c017b30f6"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640333.png" alt="img"></a></p><h2 id="了解-DALL·E-编辑功能"><a href="#了解-DALL·E-编辑功能" class="headerlink" title="了解 DALL·E 编辑功能"></a>了解 DALL·E 编辑功能</h2><p>编辑界面提供了一系列选项，用于明确指出想要改动图片的哪一部分。</p><p><a href="https://openai.intercom-attachments-7.com/i/o/1004384155/d56e622b75e93cce67c987f1/7NmKVlO8qnZ7bbwe0gqijnk9E-mWBp9_JNDBuFzyL6lkZgRnXpYaHXYB9B63kynSiCH0d5DISsJsQ2zIgSkCkOuLwS42McDPeFbwgqnGDKkP92nFKazrt1zFNkrPH7HqBD1GBhTbUtQXaMFlbTS15XE?expires=1712132725&amp;signature=430c497e7cd2ff05835a6710fef3c177995bd0d1d74dd4264f94c0adcf0ac225"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640531.png" alt="img"></a></p><p>在界面的左上角，我们可以调整选区工具的大小，这样就能更准确地选择到需要修改的区域。建议选定一个稍微大于预期编辑区域的范围，这样能帮助我们获得更满意的编辑效果。</p><p><a href="https://openai.intercom-attachments-7.com/i/o/1004384171/c539d024a77004880148b9ed/rkBUphoLj_SCJMo24s-1lc_zyei6xCqdxbOpfmmx_JV5TTDcWyY7HXAUVPCFnWR-xTS6FzH2XzSS1WgjrEmZXYQ9VT39qYsouK_tYUwc3chDknhvCXVtKUN17iOjtzbHOtLwDn2eAwdljhBMXbpwSok?expires=1712132725&amp;signature=5d7a708b0cf650f54e88f44c88c1f4beb1b1e69957ccee83aea1667fe49b5d41"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640878.png" alt="img"></a></p><p>此外，还可以通过图片上方的”撤销“和”重做“按钮来调整选择，或是点击”清除选择“，从头开始创作。</p><h2 id="利用-DALL·E-编辑调整图片"><a href="#利用-DALL·E-编辑调整图片" class="headerlink" title="利用 DALL·E 编辑调整图片"></a>利用 DALL·E 编辑调整图片</h2><p>DALL·E 的编辑功能赋予对图片进行添加、去除或者更新某些部分的能力。</p><p>比如说，当我们在图片的一个顶角”添加樱花”的指令后，就能得到这样的效果：</p><p><a href="https://downloads.intercomcdn.com/i/o/1006536460/ca302e4439204a65dc1f5797/editor-select-add+cherry+blossoms.png?expires=1712132725&amp;signature=9aa9fcdcc2420ab5697aa4dc0f4a3b54bcefff321b28417ccfee5543259b307a"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640160.png" alt="img"></a></p><p>同样地，现在也支持可以从图片中移除某些元素。在下面的例子中，我们标记了鸟类，并通过输入“移除鸟”来去除它们：</p><p><a href="https://openai.intercom-attachments-7.com/i/o/1004384230/d98390d50b59e6e4f3825f1c/jVv1L-eETnUp8frsGIHBu7MJnEwZNTyD16-bOauCa5iYpfdgrodtYkD9qqpr09fo7B-0rGlxlBRQAnL-uQXIhn9s5DMY-_wxcmeEuJz1akigI3Bs0OiFZIhXHYdcXSoLe8-uYfFjrLJgv2VHeHqWGHw?expires=1712132725&amp;signature=67fefb89e0eec2d87af2931d0cc3ca9bbf0e1badbd154172235611eccdbe6dd1"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640193.png" alt="img"></a></p><p>现在甚至可以修改选中物体的某些特定属性。在这个例子中，我们突出了小猫的脸，并通过“改变猫的表情为开心”来调整它的情绪：</p><p><a href="https://downloads.intercomcdn.com/i/o/1006446811/4b06f3dfbc1bdddfccece59d/editor-select-change+expression.png?expires=1712132725&amp;signature=6be113237b3b5aa1ab41374e80bc8f1f74a871a8a34db8b3a08413886980b259"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640465.png" alt="img"></a></p><p>点击编辑界面右上角的保存按钮，我们更新好的作品就可以下载下来。</p><p><a href="https://openai.intercom-attachments-7.com/i/o/1004384309/72f58f1f9937ff925d2a4ed8/vPu4THwgKaEnOsuZAYdhu_iioMNIkqUzCp1TOXzSv6hAKoYr_MWQlv3VFvYiD_kruZGnT_14JGj4EjR6CF4DRHd4ZQxKCQohDuPoB_GxQMqtvYfMndCaNSMaw6wmIQkQ9Z5xO1Z9kzphXR53mxRhTb0?expires=1712132725&amp;signature=93c6cad76611cb2e75bba6c9533e2e8b81b7c15c2bac295ee21b9a4e54a76ba9"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640912.png" alt="img"></a></p><h2 id="通过对话与-DALL·E-编辑交流"><a href="#通过对话与-DALL·E-编辑交流" class="headerlink" title="通过对话与 DALL·E 编辑交流"></a>通过对话与 DALL·E 编辑交流</h2><p>在 DALL·E 的编辑界面，我们还可以通过右侧的对话面板输入编辑需求，而不必使用选区工具。如果想要的编辑效果针对图片中的特定区域，建议在指令中明确指出。</p><p>例如，通过一个简单的指令“将图片转为黑白”，我们就可以把图片变成黑白风格：</p><p><a href="https://openai.intercom-attachments-7.com/i/o/1004384330/cd7059450c332673f29dd291/DuR2ACRChYT2vu5H9Xc8Gs3DPTeN8HI5opauXIP7Ak2gHRnYS3iZCTHN8aLqMag_pROzbQe1rYxyUPdiXGIxTOJAfPZJGt5FnxM0-NUXfpsUCctnVHxtgic-jR2hGK84AsgHnRNh4kUKuu_PIwewhWQ?expires=1712132725&amp;signature=38ddd3cff5466bde2212d16a1720b99733051a1175bd5df3aaf2ec4a30308d2a"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640671.png" alt="img"></a></p><h2 id="在-ChatGPT-手机应用上编辑-DALL·E"><a href="#在-ChatGPT-手机应用上编辑-DALL·E" class="headerlink" title="在 ChatGPT 手机应用上编辑 DALL·E"></a>在 ChatGPT 手机应用上编辑 DALL·E</h2><p>只需选中一个 DALL·E 生成的图片，我们就能在 ChatGPT 手机应用上进入 DALL·E 的编辑界面。</p><p>点击“编辑”，就可以在对话框中输入你的编辑需求：</p><p><a href="https://openai.intercom-attachments-7.com/i/o/1004384363/84152470ba5661fb6b1298fe/IgzfXOlY9xND3ow-ZN6iHMUIVB6RDB2hAwd9AA-I8Y4vZAz3gXusM3bwRC6wQ4CHGsgRoxNhGq2PhUaJ9F7Ss5gIpmOjPUHLbbku9ICXEOC9j2bAd47hkQT3P3vDxYWuSQmuvk1JLNSHQaSKCcf3OMY?expires=1712132725&amp;signature=5138753900735381668632fd8419fb2e79ae4a93f3bfb643b7955a8312d50520"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640797.png" alt="img"></a></p><p>通过点击“<strong>选择</strong>”，我们就能使用选择工具，轻松标记出图片中您想要编辑的部分。屏幕左侧的滑动条让我们可以自由调整选择工具的大小，而屏幕底端的撤销与重做按钮则帮助我们灵活地修改选择。</p><p><a href="https://openai.intercom-attachments-7.com/i/o/1004384386/8e70cb950f1ac38c44d1f2d6/E80uT7B8JpyY55rMIhcVe93lAU8Yee5FcQ4uLysi4YSL1lob40b9lXqhpPhovbVTbWcVS442FcsYnCDMtBz8OQWO25T3biuDdoo9USGfQkFLOVYkPWrxs4CIxeaD26gbMWi57kln5Db8kUxExnCy0fQ?expires=1712132725&amp;signature=db96ad7cdcbc070a51d320f1b9e123a118fbe4fe29d1f3bda30e1ccd3de6612f"><img src="https://aitechshare-com.oss-cn-shanghai.aliyuncs.com/article/202404031640950.png" alt="img"></a></p><p>选中所有需要编辑的部分后，点击屏幕右下角的“下一步”。此时，我们可以在对话框中详细说明想对这些标记区域做出的改变，从而完成编辑。</p><p>本教程详细介绍了如何使用 DALL·E 编辑功能来修改图片。它覆盖了从基本的图片选择和编辑到更高级的操作，如添加、移除或更新图片中的元素。教程还解释了如何通过对话框直接输入编辑需求，以及如何在 ChatGPT 手机应用上使用这些工具。</p><p>目前只有ChatGPT 4.0才能使用DALL·E，通过虚拟卡 WildCard 的方式来升级 ChatGPT 4.0 最简单快捷，大概2分钟就可以升级完成，而且升级 GPT 4.0 价钱也不贵，虚拟卡一年10美元，ChatGPT 4.0 每个月也才 20美元，如果你觉得 ChatGPT 4.0 对你可能有帮助，那就赶快来升级吧！</p><p><a href="https://aitechshare.com/upgrade-chatgptplus.html">ChatGPT4.0升级教程</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;现在，我们可以对使用 DALL·E 创作的图片进行编辑了，ChatGPT Plus推出了DALL·E 创作的图片编辑功能。&lt;/p&gt;
+&lt;p&gt;ChatGPT 4.0可以直接使用DALL·E，通过虚拟卡 WildCard 的方式来升级 ChatGPT 4.0 最简单快捷，大概2分</summary>
+      
+    
+    
+    
+    <category term="ChatGPT" scheme="https://aitechshare.com/categories/ChatGPT/"/>
+    
+    
+    <category term="ChatGPT" scheme="https://aitechshare.com/tags/ChatGPT/"/>
+    
+  </entry>
   
   <entry>
     <title>ChatGPT-5最新消息；包含Sora模型；附最新使用教程</title>
