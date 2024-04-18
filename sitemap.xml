@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aitechshare.com/how-to-register-claude3.html</loc>
+    
+    <lastmod>2024-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aitechshare.com/how-to-use-chatgpt5.html</loc>
     
     <lastmod>2024-04-18</lastmod>
@@ -84,15 +93,6 @@
   
   <url>
     <loc>https://aitechshare.com/how-to-upgrade-chatgpt.html</loc>
-    
-    <lastmod>2024-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aitechshare.com/how-to-register-claude3.html</loc>
     
     <lastmod>2024-03-22</lastmod>
     
