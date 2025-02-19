@@ -340,14 +340,14 @@
   </url>
   
   <url>
-    <loc>https://aitechshare.com/tags/Claude-3/</loc>
+    <loc>https://aitechshare.com/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aitechshare.com/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://aitechshare.com/tags/Claude-3/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -396,20 +396,6 @@
   </url>
   
   <url>
-    <loc>https://aitechshare.com/tags/Claude/</loc>
-    <lastmod>2025-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://aitechshare.com/tags/OnlyFans/</loc>
-    <lastmod>2025-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://aitechshare.com/tags/Openai/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -418,6 +404,20 @@
   
   <url>
     <loc>https://aitechshare.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2025-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aitechshare.com/tags/Claude/</loc>
+    <lastmod>2025-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aitechshare.com/tags/OnlyFans/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -438,6 +438,13 @@
   </url>
   
   <url>
+    <loc>https://aitechshare.com/tags/Cursor/</loc>
+    <lastmod>2025-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://aitechshare.com/tags/Sora/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -446,13 +453,6 @@
   
   <url>
     <loc>https://aitechshare.com/tags/openai/</loc>
-    <lastmod>2025-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://aitechshare.com/tags/Cursor/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -494,13 +494,6 @@
   </url>
   
   <url>
-    <loc>https://aitechshare.com/tags/OpenAI/</loc>
-    <lastmod>2025-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://aitechshare.com/tags/ChatGPT-4o/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -521,6 +514,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://aitechshare.com/tags/OpenAI/</loc>
+    <lastmod>2025-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -531,14 +531,14 @@
   </url>
   
   <url>
-    <loc>https://aitechshare.com/categories/Claude/</loc>
+    <loc>https://aitechshare.com/categories/Other/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aitechshare.com/categories/Other/</loc>
+    <loc>https://aitechshare.com/categories/Claude/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -573,14 +573,14 @@
   </url>
   
   <url>
-    <loc>https://aitechshare.com/categories/Sora/</loc>
+    <loc>https://aitechshare.com/categories/Cursor/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aitechshare.com/categories/Cursor/</loc>
+    <loc>https://aitechshare.com/categories/Sora/</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
