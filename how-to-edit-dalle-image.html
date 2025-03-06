@@ -203,7 +203,7 @@
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://twikoo-six-olive.vercel.app',
+      envId: 'https://twikoo.aitechshare.com',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -217,7 +217,7 @@
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://twikoo-six-olive.vercel.app',
+      envId: 'https://twikoo.aitechshare.com',
       region: '',
       onCommentLoaded: () => {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -229,7 +229,7 @@
 
   const loadTwikoo = () => {
     if (typeof twikoo === 'object') setTimeout(init,0)
-    else getScript('https://cdn.jsdelivr.net/npm/twikoo@1.6.31/dist/twikoo.all.min.js').then(init)
+    else getScript('https://cdn.jsdelivr.net/npm/twikoo@1.6.41/dist/twikoo.all.min.js').then(init)
   }
 
   if ('Twikoo' === 'Twikoo' || !true) {
